@@ -1,6 +1,6 @@
 {
   "name": "@zgriesinger/cdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin-backup": {
     "cdk": "bin/cdk.js"
   },
@@ -16,8 +16,8 @@
     "@types/jest": "^26.0.10",
     "@types/node": "10.17.27",
     "aws-cdk": "1.136.0",
-    "jest": "^26.4.2",
-    "ts-jest": "^26.2.0",
+    "jest": "27.5.1",
+    "ts-jest": "27.1.3",
     "ts-node": "^9.0.0",
     "typescript": "~3.9.7"
   },
