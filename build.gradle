@@ -14,7 +14,7 @@ dependencies {
   compile 'com.fasterxml.jackson.core:jackson-databind:2.7.9'
   compile 'org.apache.commons:commons-compress:1.11'
   compile 'io.netty:netty-codec-http:4.1.39.Final'
-  compile 'org.yaml:snakeyaml:1.19'
+  compile 'org.yaml:snakeyaml:1.26'
   compile 'commons-codec:commons-codec:1.8'
   compile 'org.codehaus.plexus:plexus-utils:2.0.3'
   compile 'org.apache.struts:struts2-core:2.0.5'
