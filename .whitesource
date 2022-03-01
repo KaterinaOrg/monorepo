@@ -11,7 +11,7 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "VULNERABILITY"
+    "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
     "enableRenovate": true,
