@@ -16,6 +16,6 @@ dependencies {
   compile 'io.netty:netty-codec-http:4.1.39.Final'
   compile 'org.yaml:snakeyaml:1.19'
   compile 'commons-codec:commons-codec:1.8'
-  compile 'org.codehaus.plexus:plexus-utils:2.0.3'
+  compile 'org.codehaus.plexus:plexus-utils:3.0.24'
   compile 'org.apache.struts:struts2-core:2.0.5'
 }
