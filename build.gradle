@@ -15,7 +15,7 @@ dependencies {
   compile 'org.apache.commons:commons-compress:1.11'
   compile 'io.netty:netty-codec-http:4.1.39.Final'
   compile 'org.yaml:snakeyaml:1.19'
-  compile 'commons-codec:commons-codec:1.8'
+  compile 'commons-codec:commons-codec:1.9'
   compile 'org.codehaus.plexus:plexus-utils:2.0.3'
   compile 'org.apache.struts:struts2-core:2.0.5'
 }
