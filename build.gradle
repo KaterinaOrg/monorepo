@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-  compile 'com.fasterxml.jackson.core:jackson-databind:2.7.9'
+  compile 'com.fasterxml.jackson.core:jackson-databind:2.10.3'
   compile 'org.apache.commons:commons-compress:1.11'
   compile 'io.netty:netty-codec-http:4.1.39.Final'
   compile 'org.yaml:snakeyaml:1.19'
