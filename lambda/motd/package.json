@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/zgriesinger/monorepo#readme",
   "dependencies": {
-    "got": "^9.6.0"
+    "got": "^12.0.0"
   },
   "devDependencies": {
     "@zgriesinger/cdk": "^0.1.0",
