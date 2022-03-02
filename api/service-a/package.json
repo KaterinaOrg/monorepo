@@ -25,7 +25,7 @@
     "destroy": "cdk destroy"
   },
   "dependencies": {
-    "@nestjs/common": "8.2.3",
+    "@nestjs/common": "8.4.0",
     "@nestjs/core": "8.2.3",
     "@nestjs/platform-express": "8.2.3",
     "@skypress/nestjs-dynamodb": "^0.1.0",
