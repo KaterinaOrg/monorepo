@@ -15,7 +15,7 @@
     "tools/*"
   ],
   "engines": {
-    "npm": "=7.19"
+    "npm": "=8.5.3"
   },
   "repository": {
     "type": "git",
